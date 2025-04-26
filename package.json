@@ -2,7 +2,7 @@
   "name": "vivek9patel-portfolio",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://adi271001.github.io/",
+  "homepage": "https://adi271001.github.io/adi271001.github.io",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
