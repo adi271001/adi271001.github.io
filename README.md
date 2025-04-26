@@ -1,1 +1,0 @@
-# adi271001.github.io
